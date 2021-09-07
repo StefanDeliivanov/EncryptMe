@@ -1,4 +1,4 @@
-# Steady Logistics
+# Encrypt.Me
 
 Very simple desktop application for encrypting and decrypting text with caesar cipher created throughout my education as a practise of learning the WPF/Winforms :dart:
 
